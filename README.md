@@ -39,7 +39,7 @@ StockMate/
 │   └── server.js               # Server entry point
 │
 ├── project.txt                 # Complete project specification
-├── learning.txt                # Developer mentor & learning guide
+|
 └── README.md
 ```
 
